@@ -1,0 +1,101 @@
+*mysyle{
+    padding:0;
+    margin:0;
+}
+.navbar-new {
+    background-color: transparent !important;
+    background: transparent;
+    border-color: transparent;
+ }
+ .logo{
+     width:80px;
+     height:50px;
+ }
+ .welcome{
+     margin-top:470px;
+     /* text-align: center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+     width:100%;
+     height:30%;
+ }
+ .welcomebox1{
+     width:50%;
+     height:50%;
+     float:left;
+     padding:10px;
+     background-color: #3eeda1;
+     /* background: linear-gradient(to right, #999966 0%, #996600 100%); */
+ }
+ .welcomebox2{
+     width:50%;
+     height:30%;
+     background-color: #3eeda1;
+     padding:25px;
+     /* background: linear-gradient(to right, #999966 0%, #996633 100%); */
+     float:left;
+ }
+ .welcomebox2 h1{
+     color:blanchedalmond;
+     text-align: center;
+     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+ }
+ .welcomebox2 button{
+     background-color:blanchedalmond;
+     margin-left:250px;
+     border-color: blanchedalmond;
+
+ }
+ .welcomebox2 button:hover{
+     color:#3eeda1;
+     background-color: black;
+ }
+ .welcomebox2 p{
+     color:blueviolet;
+ }
+ .about{
+     background-color: #3eeda1;
+     /* background-color: #3edced; */
+     font-size: large;
+     width:100%;
+     height:35%;
+     margin-top:10px;
+     padding:25px;
+     text-align: justify;
+ }
+ .row{
+     margin:500px;
+ }
+ .top10 h2{
+     text-align:center;
+     margin-top:811px;
+ }
+ .dist14{
+     margin-top:-554px;
+     /* margin-left:10px; */
+     padding:100px;
+ }
+ .dist14 h2{
+    text-align:center;
+}
+#cardbdy{
+    text-align: centre;
+}
+.secondrow{
+    margin-top:-434px
+}
+.thirdrow{
+    margin-top:-434px
+}
+.fourthrow{
+    margin-top:-434px
+
+}
+/* login page start*/
+.top10{
+    background-color: antiquewhite;
+    /* margin-top: -15% */
+}
+.dist14{
+    background-color: cornsilk;
+}
+
